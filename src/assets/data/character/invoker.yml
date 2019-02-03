@@ -115,10 +115,33 @@
       skill that allows her to fit into physical attacking compositions. Due to this, if you enjoy the staff invoker play style she's
       probably the best to invest in. Her talents all buff her, and she has a homing attack that helps deal with moving targets as
       well. A viable self sufficient flexible caster._
+      
+      
+      **TL DR**
+      
+      
+      **Pros**
+      
+      - Combat attack buff.
+      
+      - High damage output.
+      
+      - Doesn't require support.
+      
+      - Homing based attacks.
+      
+      
+      **Cons**
+      
+      - Elemental locked with no real secondary element.
+      
+      - Lack of party buffs outside her in combat attack buff.
+      
 
       **Rotation**
 
       *Normal > CA Explosion > Fire Bolt > Explosion > Explosion (General damage rotation. Recommended with 101 AP.)*
+      
       *Normal > CA Fire Bolt > Explosion > Fire Bolt (Moving target rotation.)*
       
 - name: Myuria Tionysus
@@ -203,6 +226,50 @@
           buffValue: 80
     power: INT x 3500%
     maxHits: 2
+    
+  notes: >
+      _Myuria is the Invoker pick for new players and the second best choice after Maria. Myuria is a lightning caster who has ice as
+      her secondary element. She's a powerful invoker who boasts a high INT stat and her selfish talents boost her into a character
+      that is good stand alone. Plasma Cyclone gives her the ability to clear out room trash making her good for multiple wave events
+      and MoT. She's also highly effective against any lightning weak boss and can be used against ice weak bosses if you really want.
+      She also brings a good personal stun rate boost which when combined with plasma cyclone can stun lock an entire room of enemies._
+      
+      _Her downsides are that, her talents are entirely selfish, she brings nothing to the party apart from her personal damage and
+      her AoE. She also lacks any homing skill, meaning that moving bosses can be an issue, even with plasma cyclones large room 
+      coverage it can sometimes not cover larger arenas sufficiently. Also her spells are expensive even with her AP reduction and
+      her rush gain is pretty bad._
+      
+      
+      **TL DR**
+      
+      
+      **Pros**
+      
+      - Amazing AoE for MoT and trash waves.
+      
+      - High damage output and above average stun chance.
+      
+      - Doesn't require support.
+      
+      - Ice secondary spells.
+      
+      
+      **Cons**
+      
+      - Slow rush gain.
+      
+      - Lack of party buffs.
+      
+      - High spell costs.
+      
+      - Lack of homing attack.
+      
+
+      **Rotation**
+
+      *Normal > CA Explosion > Fire Bolt > Explosion > Explosion (General damage rotation. Recommended with 101 AP.)*
+      
+      *Normal > CA Fire Bolt > Explosion > Fire Bolt (Moving target rotation.)*
 
 - name: Ronyx J. Kenny
   cat: gl
